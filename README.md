@@ -48,12 +48,6 @@ Automated GitHub repository access validation using **Shell scripting** and **CL
 
 ---
 
-## 🔥 Contribution Graph  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nyxoy77&theme=radical)
-
----
-
 ## 📫 Let's Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Nyxoy77)  
@@ -85,4 +79,4 @@ Feel free to reach out if you want to discuss potential projects, collaborations
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nyxoy77&color=brightgreen)  
 
-✨ *"Building one project at a time while exploring the endless possibilities of technology."* ✨  
+✨ *"Building one project at a time while exploring the endless possibilities of technology."* ✨
