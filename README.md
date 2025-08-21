@@ -10,7 +10,7 @@ I also love making mobile apps in my freetime :)
 ## 🛠Tech Stack
 
 **Languages**  
-![Go](https://img.shields.io/badge/Go-00ADD8) ![Dart](https://img.shields.io/badge/Dart-0175C2)
+![Go](https://img.shields.io/badge/Go-00ADD8) ![C++](https://img.shields.io/badge/C%2B%2B-00599C)
 
 **Frameworks & Libraries**  
 ![Gin](https://img.shields.io/badge/Gin-333333) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098) ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-000000) ![Cobra](https://img.shields.io/badge/Cobra-16A085)
