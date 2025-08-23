@@ -69,7 +69,7 @@ A RESTful and GraphQL-powered API for environmental data and analytics built wit
 
 - **ConnectWise Summer Intern**  
   Built and deployed a Ticket & Asset Sync pod for the RMM dashboard, reducing page load time from **50+ seconds** to just **2 seconds**. Developed production-ready GraphQL APIs to improve responsiveness and scalability.
-- **Managing Director, OWASP PCCOE **  
+- **Managing Director, OWASP PCCOE**  
   Organized and lead cybersecurity events, fostering awareness and technical growth.
 - **Competitive Programming**  
   CodeChef 3-Star for consistent problem-solving and algorithmic thinking.
